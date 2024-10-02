@@ -1,0 +1,11 @@
+html,
+body {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+  background-color: #f3f6fb;
+}
+
+.App {
+  min-height: 100vh;
+}

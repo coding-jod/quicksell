@@ -1,0 +1,15 @@
+.user-avatar {
+    display: flex;
+    width: 20px;
+    height: 20px;
+    padding: 3%;
+    border-radius: 50%;
+    /* object-fit: cover; */
+    font-size: small;
+    background-color: aqua;
+    /* text-align: center;
+     */
+     justify-content: center;
+     align-items: flex-start;
+    
+  }
